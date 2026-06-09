@@ -51,5 +51,5 @@ KV — самый быстрый слой. Используй как кэш ил
 ## Связи
 
 - [[../../Этап 3 - Распределённые системы/Кэширование|Кэширование]] — паттерны использования Redis
-- [[../Базы данных SQL и NoSQL#Практика]] — idempotency key через Redis
-- [[../CAP]] — Redis Cluster при partition
+- [[Базы данных SQL и NoSQL#Практика]] — idempotency key через Redis
+- [[CAP]] — Redis Cluster при partition
